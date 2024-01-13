@@ -1,1 +1,3 @@
 0.0.0.0 hs-data.com
+0.0.0.0 (^|\.)taboola\.com$
+0.0.0.0 (^|\.)outbrain\.com$
